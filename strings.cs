@@ -1,5 +1,6 @@
 using System;
 
+//namespace
 namespace Strings
 {
   class MainClass
