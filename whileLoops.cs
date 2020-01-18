@@ -1,5 +1,5 @@
 using System;
-
+//while loops
 namespace WhileLoops
 {
   class MainClass
