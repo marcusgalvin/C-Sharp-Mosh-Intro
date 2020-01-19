@@ -6,6 +6,7 @@ namespace WhileLoops
   {
     public static void Main(string[] args)
     {
+      //check is if the number is divisible by 2
       //for (var i = 1; i <= 10; i++)
       //{
       //    if (i%2 == 0)
